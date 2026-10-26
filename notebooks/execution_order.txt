@@ -1,0 +1,91 @@
+data.ipynb
+audit_subset.ipynb
+omnigen2_test.ipynb
+omnigen2_generate.ipynb
+score_baseline.ipynb
+omnigen2_mllm_evidence.ipynb
+preflight_judge_sd.ipynb
+judge_sd.ipynb
+baseline_embed.ipynb
+baseline_arcface.ipynb
+open_judge.ipynb
+open_judge_7b.ipynb
+check_prompting_levers.ipynb
+screen_split.ipynb
+prompting_arm.ipynb
+score_runs.ipynb
+prompting_arm_a1.ipynb - prompting_arm_a5.ipynb
+score_runs_a1.ipynb - score_runs_a5.ipynb
+compare_runs.ipynb
+prompting_arm_n_contrastive.ipynb, prompting_arm_n_contrastive2.ipynb, prompting_arm_n_filler.ipynb, prompting_arm_n_empty.ipynb
+score_runs_n_contrastive.ipynb, score_runs_n_contrastive2.ipynb, score_runs_n_filler.ipynb, score_runs_n_empty.ipynb
+prompting_arm_zero_ref.ipynb
+score_runs_zero_ref.ipynb
+zero_ref_check.ipynb
+prompting_check.ipynb
+inspect_template_surface.ipynb
+fewshot_k_feasibility.ipynb
+build_fewshot_exemplars.ipynb
+prompting_arm_fewshot_k2_domain.ipynb, prompting_arm_fewshot_k5_domain.ipynb, prompting_arm_fewshot_k5_filler.ipynb, prompting_arm_fewshot_k5_mismatched.ipynb, prompting_arm_fewshot_k5_antirender.ipynb
+score_runs_fewshot_k2_domain.ipynb, score_runs_fewshot_k5_domain.ipynb, score_runs_fewshot_k5_filler.ipynb, score_runs_fewshot_k5_mismatched.ipynb, score_runs_fewshot_k5_antirender.ipynb
+few_shot_check.ipynb
+inspect_official_training.ipynb
+lora_timing_test.ipynb
+lora_variant_timing.ipynb
+lora_train_r4.ipynb, lora_train_r8.ipynb, lora_train_r16.ipynb
+lora_convert.ipynb
+lora_arm_r4.ipynb, lora_arm_r8.ipynb, lora_arm_r16.ipynb
+score_runs_lora_r4.ipynb, score_runs_lora_r8.ipynb, score_runs_lora_r16.ipynb
+lora_convert_steps.ipynb
+lora_val_gen_r4.ipynb, lora_val_gen_r8.ipynb, lora_val_gen_r16.ipynb
+score_runs_lora_val_r4.ipynb, score_runs_lora_val_r8.ipynb, score_runs_lora_val_r16.ipynb
+baseline_val_gen.ipynb
+score_runs_baseline_val.ipynb
+lora_train_r8_early.ipynb
+lora_convert_early.ipynb
+lora_val_gen_r8_early.ipynb
+score_runs_lora_val_r8_early.ipynb
+lora_arm_step1000_r4.ipynb, lora_arm_step1000_r8.ipynb, lora_arm_step1000_r16.ipynb
+score_runs_lora_step1000_r4.ipynb, score_runs_lora_step1000_r8.ipynb, score_runs_lora_step1000_r16.ipynb
+lora_arm_step1000_zero_ref_r8.ipynb
+score_runs_lora_step1000_zero_ref_r8.ipynb
+lora_check.ipynb
+inspect_soft_prompt_surface.ipynb
+soft_prompt_i_probe.ipynb, soft_prompt_ii_probe_p64.ipynb, soft_prompt_ii_probe_p668.ipynb, soft_prompt_iii_probe.ipynb
+soft_prompt_i_train.ipynb, soft_prompt_ii_train_p668.ipynb, soft_prompt_ii_train_p1247.ipynb, soft_prompt_iii_train.ipynb
+soft_prompt_train_monitor.ipynb
+soft_prompt_val_gen_i.ipynb, soft_prompt_val_gen_ii.ipynb, soft_prompt_val_gen_iii.ipynb
+score_runs_sp_val_i.ipynb, score_runs_sp_val_ii.ipynb, score_runs_sp_val_iii.ipynb
+soft_prompt_test_gen_i.ipynb, soft_prompt_test_gen_ii.ipynb, soft_prompt_test_gen_iii.ipynb
+score_runs_sp_test_i.ipynb, score_runs_sp_test_ii.ipynb, score_runs_sp_test_iii.ipynb
+soft_prompt_check.ipynb
+inspect_quantization_surface.ipynb
+qlora_quant_probe_q302.ipynb, qlora_quant_probe_q309.ipynb
+score_runs_qlora_q302.ipynb, score_runs_qlora_q309.ipynb
+qlora_train_r8.ipynb
+qlora_convert.ipynb
+qlora_val_gen_r8.ipynb
+score_runs_qlora_val_r8.ipynb
+qlora_test_gen_r8.ipynb
+score_runs_qlora_test_r8.ipynb
+qlora_check.ipynb
+build_omnicontext.ipynb
+omnicontext_gen_baseline_shipped.ipynb, omnicontext_gen_baseline.ipynb, omnicontext_gen_lora_r8_step1000.ipynb, omnicontext_gen_qlora_r8_step2000.ipynb, omnicontext_gen_sp_iii_step2000.ipynb
+score_runs_omnicontext_baseline_shipped.ipynb, score_runs_omnicontext_baseline.ipynb, score_runs_omnicontext_lora_r8_step1000.ipynb, score_runs_omnicontext_qlora_r8_step2000.ipynb, score_runs_omnicontext_sp_iii_step2000.ipynb
+omnicontext_check.ipynb
+human_eval_build.ipynb
+human_eval_ui.ipynb
+human_eval_check.ipynb
+positive_control_lr_probe.ipynb
+positive_control_train.ipynb
+positive_control_convert.ipynb
+positive_control_gen.ipynb
+score_runs_positive_control.ipynb
+positive_control_check.ipynb
+arms_embed.ipynb
+arms_embed_target.ipynb
+arms_embed_permute.ipynb
+positive_control_permute.ipynb
+arms_embed_anchor.ipynb
+full_audit.ipynb
+verify_artifacts.ipynb

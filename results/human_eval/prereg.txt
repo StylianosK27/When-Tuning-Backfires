@@ -1,0 +1,18 @@
+Primary: agreement between the rater's overall preference and the sign of the GPT-4.1 Overall
+margin on the same row, pooled over the 150 scored pairs, reported against the GPT margin band.
+Rows where the rater answers tie, and rows where the GPT margin is exactly zero, are excluded
+from the agreement rate and reported as counts.
+
+Secondary, all pre-specified:
+  per-contrast win rate over 50 pairs, ties excluded, two-sided binomial, 33/50 needed at p<0.05
+  per-dimension agreement, testing whether the LoRA effect is confined to subject consistency
+  error tag counts by contrast, as the qualitative taxonomy
+  self-agreement over the 15 repeated pairs, as the single-rater reliability bound
+  left-preference rate over all comparisons, as a position-bias check, expected near 0.5
+
+The human leg tests whether GPT-4.1 ranks as a human ranks. It does not re-measure the arms:
+at 50 pairs per contrast only an effect near 66% preference is detectable, while the arms are
+already measured at n=488. A null on LoRA and QLoRA is the predicted result and corroborates
+the judge; it is not a failed test.
+
+frozen 2026-08-15T14:31:26
