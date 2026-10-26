@@ -4,7 +4,7 @@
 
 - `notebooks/general/` — Data preparation, preliminary tests, analysis, and verification.
 - `notebooks/` — Experimental training, generation, scoring, and evaluation notebooks, organized into subfolders.
-- `notebooks/execution_order.txt` — Execution order of the experimental notebooks.
+- `notebooks/execution_order.txt` — Execution order of all notebooks.
 - `data/` — Dataset splits, exemplars, and OmniContext metadata.
 - `results/scores/` — Automatic evaluation scores (JSONL).
 - `results/embeddings/` — Saved image embeddings (NPZ).
@@ -23,4 +23,4 @@ The notebooks were developed using Google Colab and Google Drive. Setup and pack
 
 Local file paths must be adjusted when running in another environment. Hugging Face and OpenAI API credentials are required for the relevant operations.
 
-Original image datasets and trained model checkpoints are not included.
+Original image datasets, generated images, and trained model checkpoints are not included.
