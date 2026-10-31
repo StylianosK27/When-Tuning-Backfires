@@ -69,6 +69,7 @@ score_runs_qlora_val_r8.ipynb
 qlora_test_gen_r8.ipynb
 score_runs_qlora_test_r8.ipynb
 qlora_check.ipynb
+arms_ci95.ipynb
 build_omnicontext.ipynb
 omnicontext_gen_baseline_shipped.ipynb, omnicontext_gen_baseline.ipynb, omnicontext_gen_lora_r8_step1000.ipynb, omnicontext_gen_qlora_r8_step2000.ipynb, omnicontext_gen_sp_iii_step2000.ipynb
 score_runs_omnicontext_baseline_shipped.ipynb, score_runs_omnicontext_baseline.ipynb, score_runs_omnicontext_lora_r8_step1000.ipynb, score_runs_omnicontext_qlora_r8_step2000.ipynb, score_runs_omnicontext_sp_iii_step2000.ipynb
